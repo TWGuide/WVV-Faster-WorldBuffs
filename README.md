@@ -1,6 +1,6 @@
 # Winter Veil Vale - Faster World Buffs Guide
 
-### This guide will show how you can hand in snowballs to Tiny Timflake at the Winter Veil Vale during the Winter Veil christmas event.
+### This guide will show how you can hand in snowballs super fast to Tiny Timflake at the Winter Veil Vale during the Winter Veil christmas event.
 
 ## Step 1 - LazyPig
 Download [LazyPig](https://github.com/Otari98/_LazyPig) directly from the TurtleWoW Launcher under the `ADDONS` tab.  
