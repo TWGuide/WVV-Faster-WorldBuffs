@@ -57,4 +57,4 @@ This macro will scan the vendor for `Snowball` and buy two stacks (8x of Snowbal
 
 And with that, the guide is over, thanks for checking it out! Happy world buff spamming, folks!
 
-Made by Peachoo/Ieaiaio/Shadorei/Entertragedy
+Made by Peachoo/Ieaiaio/Shadorei/Entertragedy @ Nordanaar
