@@ -1,6 +1,7 @@
 # Winter Veil Vale - Faster World Buffs Guide
 
-### This guide will show how you can hand in snowballs super fast to Tiny Timflake at the Winter Veil Vale during the Winter Veil christmas event.
+__This guide will show how you can hand in snowballs super fast to Tiny Timflake at the Winter Veil Vale during the Winter Veil christmas event.__  
+__This allows you to single-handedly drop world buffs in less than a minute (if your bags are big enough to hold 1000 snowballs).__  
 
 ## Step 1 - LazyPig
 Download [LazyPig](https://github.com/Otari98/_LazyPig) directly from the TurtleWoW Launcher under the `ADDONS` tab.  
@@ -12,7 +13,7 @@ Alternatively, if using [GitAddonsManager](https://woblight.gitlab.io/overview/g
 ## Step 2 - Interact
 Download and install the [Interact](https://github.com/luskanek/Interact) client mod. If using the TurtleWoW launcher, make sure to enable the mod under the `MODS` tab as well.
 
-<details>   
+<details open>   
 <summary>Detailed installation steps (from Interact's github)</summary>
   
 1. Download the latest release from [here](https://github.com/luskanek/Interact/releases/latest/download/Interact.zip)
@@ -30,7 +31,7 @@ Download and install the [Interact](https://github.com/luskanek/Interact) client
 > The Keybinds must be `Alt + Mouse Wheel Up` and `Alt + Mouse Wheel Down` for either `Interact` or `Interact (auto-loot)`.  
 > Without the Alt + Scrollwheel bind, LazyPig won't auto-complete the snowball hand-in quest at Tiny Timflake.  
 
-<details>
+<details open>
   <summary>Key Bindings Menu</summary>
     
   ![Keybinds](https://i.imgur.com/HKAnUzg.png)
